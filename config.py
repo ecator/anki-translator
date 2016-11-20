@@ -1,7 +1,7 @@
 #coding=utf8
 #翻译机配置文件
 src='jp' #源语言
-dst='kor' #目标语言
+dst='zh' #目标语言
 origin='origin.txt' #源decks路径
 out='out.txt' #输出的新decks路径
 srcIndex=0 #源语言在字段中的索引，0开始
